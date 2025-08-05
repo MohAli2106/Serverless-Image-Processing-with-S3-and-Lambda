@@ -17,7 +17,7 @@ This is a serverless application that automatically resizes and watermarks image
 
 ## 📌 Architecture Diagram
 
-![Architecture](architecture-diagram.png)
+![Architecture](Cloud Architecture.jpeg)
 
 ---
 
