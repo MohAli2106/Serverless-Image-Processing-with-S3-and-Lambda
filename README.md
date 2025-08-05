@@ -10,14 +10,12 @@ This is a serverless application that automatically resizes and watermarks image
 - Resizes to thumbnail (200x200)
 - Adds a watermark
 - Stores final image in a separate S3 bucket
-- Optional: Metadata storage in DynamoDB
-- Optional: API Gateway for upload endpoint
 
 ---
 
 ## 📌 Architecture Diagram
 
-![Architecture](Cloud Architecture.jpeg)
+![Architecture]([Cloud Architecture.jpeg](https://lucid.app/lucidchart/85834a86-0a44-4642-a073-29fe20b3dfae/edit?invitationId=inv_9de66629-5c0d-400e-9f0d-fafbdc28464f))
 
 ---
 
@@ -36,8 +34,7 @@ This is a serverless application that automatically resizes and watermarks image
 - **AWS Lambda** — Image processing
 - **Pillow (PIL)** — Python image library
 - **IAM Roles** — Secure access
-- **(Optional) DynamoDB** — Store metadata
-- **(Optional) API Gateway** — HTTP upload support
+
 
 ---
 
