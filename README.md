@@ -1,8 +1,14 @@
-## Demo
+# 🖼️ Serverless Image Processing Application
 
-### Watch the demo below:
+## 🎥 Demo
 
-<video width="600" controls>
-  <source src="https://user-images.githubusercontent.com/83034314/assets/SAA.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <video width="640" height="360" controls>
+    <source src="./assets/SAA.webm" type="video/webm">
+    Your browser does not support the video element.
+  </video>
+</div>
+
+## 🎯 Features
+
+[Rest of content remains the same]
