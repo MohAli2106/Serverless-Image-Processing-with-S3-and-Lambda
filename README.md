@@ -1,6 +1,6 @@
 # 🖼️ Serverless Image Processing Application
 
-A robust serverless application that automatically processes images uploaded to AWS S3 using Lambda functions. The application provides automatic image resizing and watermarking capabilities, demonstrating a practical implementation of serverless architecture.
+A robust serverless application that automatically processes images uploaded to AWS S3 using Lambda functions. The application provides automatic image resizing and watermarking capabilities, demon[...]  
 
 ## 🎯 Features
 
@@ -28,39 +28,39 @@ The application follows a simple yet effective serverless architecture:
 
 ## ⚙️ Setup Instructions
 
-1. **Clone the Repository**
+1. **Clone the Repository**  
    ```bash
    git clone https://github.com/MohAli2106/Serverless-Image-Processing-with-S3-and-Lambda.git
    cd Serverless-Image-Processing-with-S3-and-Lambda
    ```
 
-2. **Configure AWS Resources**
-   - Create two S3 buckets:
-     - One for raw images (raw-images-bucket)
-     - One for processed images (my-processed-images-123)
+2. **Configure AWS Resources**  
+   - Create two S3 buckets:  
+     - One for raw images (raw-images-bucket)  
+     - One for processed images (my-processed-images-123)  
    - Set up appropriate IAM roles and permissions
 
-3. **Deploy Lambda Function**
-   - Upload lambda_function.py to AWS Lambda
-   - Configure environment variables if needed
+3. **Deploy Lambda Function**  
+   - Upload lambda_function.py to AWS Lambda  
+   - Configure environment variables if needed  
    - Set up S3 trigger for the raw images bucket
 
 ## 🛠️ Technologies Used
 
-- **Amazon S3**
-  - Secure object storage for both raw and processed images
+- **Amazon S3**  
+  - Secure object storage for both raw and processed images  
   - Event triggering capability
 
-- **AWS Lambda**
-  - Serverless compute service
+- **AWS Lambda**  
+  - Serverless compute service  
   - Automatic scaling and pay-per-use pricing
 
-- **Pillow (PIL)**
-  - Python Imaging Library for image processing
+- **Pillow (PIL)**  
+  - Python Imaging Library for image processing  
   - Handles resizing and watermarking operations
 
-- **IAM Roles**
-  - Secure access management
+- **IAM Roles**  
+  - Secure access management  
   - Principle of least privilege implementation
 
 ## 📂 Project Structure
@@ -78,6 +78,12 @@ The application follows a simple yet effective serverless architecture:
 2. Upload an image to the raw-images bucket
 3. The Lambda function will automatically process the image
 4. Find the processed image in the processed-images bucket
+
+## 🎥 Demo
+
+Watch the application in action:
+
+https://github.com/MohAli2106/Serverless-Image-Processing-with-S3-and-Lambda/blob/main/assets/SAA.webm
 
 ## 🤝 Contributing
 
