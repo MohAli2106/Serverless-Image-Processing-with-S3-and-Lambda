@@ -18,7 +18,11 @@ The application follows a simple yet effective serverless architecture:
 2. Upload event triggers AWS Lambda function automatically
 3. Lambda processes the image (resizing + watermarking)
 4. Processed images are stored in my-processed-images-123 bucket
-![System Architecture](Cloud Architecture.jpeg)
+
+   
+![System Architecture](https://github.com/MohAli2106/Serverless-Image-Processing-with-S3-and-Lambda/blob/b17ed3b8734d523a9fa1dd7521ef2c114854d5f2/Cloud%20Architecture.jpeg)
+
+
 ## 🚀 Prerequisites
 
 - AWS Account with appropriate permissions
