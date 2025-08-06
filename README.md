@@ -2,12 +2,7 @@
 
 ## 🎥 Demo
 
-<div align="center">
-  <video width="640" height="360" controls>
-    <source src="./assets/SAA.webm" type="video/webm">
-    Your browser does not support the video element.
-  </video>
-</div>
+https://user-images.githubusercontent.com/83034314/assets/SAA.webm
 
 ## 🎯 Features
 
