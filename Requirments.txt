@@ -1,11 +1,13 @@
-Create a serverless image processing application where users upload images to an S3 bucket, triggering an AWS Lambda function that processes and resizes the images before storing them in another S3 bucket.
-Key AWS Services Used:
-Amazon S3: Stores original and processed images.
-AWS Lambda: Executes image processing (resize, watermarking).
-Amazon API Gateway (Optional): Expose an API for uploads.
+### Requirments 
+- Create a serverless image processing application where users upload images to an S3 bucket, triggering an AWS Lambda function that processes and resizes the images before storing them in another S3 bucket.
+
+### Key AWS Services Used:
+- Amazon S3: Stores original and processed images.
+- AWS Lambda: Executes image processing (resize, watermarking).
 
 
-Learning Outcomes:
-Building event-driven architectures with Lambda and S3 triggers.
-Understanding cost-efficient, auto-scaling serverless applications.
-Enhancing security using IAM roles and S3 bucket policies.
+
+### Learning Outcomes:
+- Building event-driven architectures with Lambda and S3 triggers.
+- Understanding cost-efficient, auto-scaling serverless applications.
+- Enhancing security using IAM roles and S3 bucket policies.
