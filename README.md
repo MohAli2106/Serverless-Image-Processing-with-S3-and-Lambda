@@ -83,6 +83,10 @@ The application follows a simple yet effective serverless architecture:
 3. The Lambda function will automatically process the image
 4. Find the processed image in the processed-images bucket
 
+## Demo
+
+![Demo](https://github.com/MohAli2106/Serverless-Image-Processing-with-S3-and-Lambda/blob/b1a63de7e67d8a9fb8bd9edfe028e13b80e20d34/assets/SAA.webm)
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
