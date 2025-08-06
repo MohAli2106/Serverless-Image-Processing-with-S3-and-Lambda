@@ -85,8 +85,7 @@ The application follows a simple yet effective serverless architecture:
 
 ## Demo
 
-![Demo](https://github.com/MohAli2106/Serverless-Image-Processing-with-S3-and-Lambda/blob/b1a63de7e67d8a9fb8bd9edfe028e13b80e20d34/assets/SAA.webm)
-
+[Demo](https://youtu.be/6UPdN_0JYi8)
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
