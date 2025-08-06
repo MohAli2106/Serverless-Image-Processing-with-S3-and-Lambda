@@ -83,9 +83,8 @@ The application follows a simple yet effective serverless architecture:
 3. The Lambda function will automatically process the image
 4. Find the processed image in the processed-images bucket
 
-## Demo
+## [Demo](https://youtu.be/6UPdN_0JYi8)
 
-[Demo](https://youtu.be/6UPdN_0JYi8)
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
